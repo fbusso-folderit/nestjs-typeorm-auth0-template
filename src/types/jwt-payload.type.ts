@@ -1,3 +1,4 @@
+// TODO: Complete the type definition for JWT payload based on your token structure.
 export type JwtPayload = {
    /**
     * The issuer of the token, typically a URL.

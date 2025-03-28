@@ -20,6 +20,11 @@
     "typeRoots": [
       "./node_modules/@types",
       "./src/types"
-    ]
-  }
+    ],
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "global.d.ts"
+  ]
 }
